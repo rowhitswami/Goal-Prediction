@@ -17,4 +17,4 @@ This dataset contains the records of all the attempts Ronaldo has taken. The col
         Score = 1 / (1+MAE)  => 0.6798
 
 ## Leaderboard Rank (Public)
-- Top 0.88%
+- Top 4.17%
